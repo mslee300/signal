@@ -26,4 +26,4 @@ A few of the things you can do with Signal:
 </p> 
 
 ## Feedback 
-Feel free to send us feedback on [Signal](mailto:minseok30086@gmail.com) or [file an issue](https://github.com/mslee300/signal/issues). Feature requests are always welcome. If you wish to contribute, please help yourself! We are always open for suggestions! 
+Feel free to send us feedback on [Signal](mailto:minseok30086@gmail.com) or [file an issue](https://github.com/mslee300/signal/issues). Feature requests are always welcome. If you wish to contribute, please help yourself! We are always open for suggestions.
