@@ -11,7 +11,7 @@
 Signal is web platform for Korean students to anonymously let them know who has a crush on them
 
 ## Features 
-A few of the things you can do with Signal: 
+Some of the things you can do with Signal: 
 
 * Send a signal to your crush 
 * Get a signal message in your Insta DM 
