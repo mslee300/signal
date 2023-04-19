@@ -8,7 +8,7 @@
 <p align="center"> Signal - See who likes you </p>
 
 ## Introduction 
-Signal is web platform for students to anonymously let them know who has a crush on them
+Signal is web platform for Korean students to anonymously let them know who has a crush on them
 
 ## Features 
 A few of the things you can do with Signal: 
